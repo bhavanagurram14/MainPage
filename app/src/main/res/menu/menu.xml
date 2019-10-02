@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id1"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="home"/>
+
+    <item
+        android:id="@+id/id2"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="info"/>
+
+    <item
+        android:id="@+id/id3"
+        android:icon="@drawable/ic_people_outline_black_24dp"
+        android:title="develpoment team"/>
+</menu>
